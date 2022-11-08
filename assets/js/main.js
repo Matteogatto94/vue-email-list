@@ -18,5 +18,7 @@ createApp({
                 this.emailUsers.push(response.data.response)
             })
         }
+
+        
     }
 }).mount('#app')
